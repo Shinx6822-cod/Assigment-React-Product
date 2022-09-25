@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1bc6de83ef3d1e0e",
+    "name": "",
+    "description": "",
+    "image": "",
+    "create_at": "2022-09-25T16:47:57.539Z"
+  },
+  {
+    "id": "c6671e7e0cde5cd9",
+    "name": "",
+    "description": "",
+    "image": "",
+    "create_at": "2022-09-25T16:20:45.273Z"
+  },
+  {
+    "id": "04cc303d9c2fd0a9",
+    "name": "",
+    "description": "",
+    "image": "",
+    "create_at": "2022-09-25T16:20:33.415Z"
+  },
+  {
+    "id": "7989ce2f72411d2e",
+    "name": "",
+    "description": "",
+    "image": "",
+    "create_at": "2022-09-25T16:20:25.358Z"
+  },
+  {
+    "id": "4f4362eb53c3bdbe",
+    "name": "",
+    "description": "",
+    "image": "",
+    "create_at": "2022-09-25T16:20:24.893Z"
+  },
+  {
+    "id": "c4b5ed1b3ea278d0",
+    "name": "Jeruk",
+    "description": "",
+    "image": "https://cdn.pixabay.com/photo/2014/04/03/10/09/orange-309985_960_720.png",
+    "create_at": "2022-09-25T16:00:16.013Z"
+  },
+  {
+    "id": "392f4ca4bcff9912",
+    "name": "name product",
+    "description": "desc",
+    "image": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
+    "price": 10000,
+    "create_at": "2022-09-18T06:05:17.563Z"
+  }
+]
