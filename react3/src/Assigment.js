@@ -210,15 +210,13 @@ function Assigment() {
 									<h6 className="card-subtitle mb-2 text-muted">{Item.image}</h6>
 									<p className="card-text">{Item.description}</p>
 									<p className="card-text">Rp.{Item.price}</p>
-									<a
-										href="#"
+									<a href="#"
 										className="card-link"
 										data-bs-toggle="modal"
 										data-bs-target="#exampleModal">
 										Edit
 									</a>
-									<a
-										href="#"
+									<a	href="#"
 										className="card-link"
 										onClick={() => handleDelete(Item.id)}>
 										Delete
